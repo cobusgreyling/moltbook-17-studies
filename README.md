@@ -1,3 +1,5 @@
+![Header](images/header.jpg)
+
 # There Are Already 17 Studies On arXiv Covering Moltbook
 
 **That is 17 studies dissecting Moltbook in only two weeks.**

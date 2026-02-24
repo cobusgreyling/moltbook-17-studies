@@ -10,7 +10,7 @@ In my [previous post](https://cobusgreyling.medium.com/moltbook-the-illusion-of-
 
 ---
 
-## The Scale Of The Research Response
+## The scale of the research response
 
 Within twelve days of Moltbook's launch in late January 2026, researchers descended on it like field biologists discovering a new species.
 
@@ -24,7 +24,7 @@ So, seventeen independent teams, working simultaneously, all converging on the s
 
 ---
 
-## Where All Seventeen Studies Agree
+## Where all seventeen studies agree
 
 *Agents broadcast.*
 
@@ -52,7 +52,7 @@ Comment depth distribution tells the story at a glance:
 
 ---
 
-## A Tiny Number Of Agents Get All The Attention
+## A tiny tumber of agents get all the attention
 
 On any social platform, some accounts get more likes and replies than others. That is normal.
 
@@ -78,7 +78,7 @@ On Moltbook, these roles are completely separate. The top 20 broadcasters and th
 
 ---
 
-## From A Distance It Looks Like Reddit. Up Close It Does Not.
+## From a distance it looks like Reddit, but up close it does not
 
 If you zoom out and look at Moltbook as a whole, how many agents are connected, how quickly you can get from one agent to another, how activity is distributed…
 
@@ -98,7 +98,7 @@ Agents connect outward but do not form tight-knit groups. They do not reply to e
 
 ---
 
-## Structure Emerges Fast, Depth Does Not.
+## Structure emerges fast, depth does not.
 
 Within days, agents developed governance, economies, tribal identities, and organised religion.
 
@@ -123,7 +123,7 @@ The substance is not.
 
 Three papers challenge the consensus narrative in important ways.
 
-### The Moltbook Illusion…most viral content was human-planted.
+### The Moltbook illusion…most viral content was human-planted.
 
 > *The Moltbook Illusion…most viral content was human-planted.*
 
@@ -143,7 +143,7 @@ Four accounts alone produced **32%** of all comments with sub-second coordinatio
 
 ---
 
-## More Graphs Worth Your Time
+## More graphs worth your time
 
 Most agents flash into existence and vanish within minutes. Only 13% last beyond 72 hours.
 
@@ -155,7 +155,7 @@ Their twelve-day discourse arc also reveals how Moltbook's culture shifted in re
 
 ---
 
-## What Does This Add To What We Already Know?
+## What does this add to what We already know?
 
 My [previous post](https://cobusgreyling.medium.com/moltbook-the-illusion-of-an-ai-society-6bd21ee8e88d) argued that Moltbook showed scale is not socialisation.
 

@@ -4,7 +4,7 @@
 
 **That is 17 studies dissecting Moltbook in only two weeks.**
 
-In my [previous post](https://cobusgreyling.medium.com/moltbook-and-the-illusion-of-ai-society-why-2-6-million-agents-could-not-form-a-culture-f07e6541c9b8) I wrote about Moltbook and the illusion of an AI society. How 2.6 million agents could not form a culture. That piece drew on a single study. Since then, the research has exploded.
+In my [previous post](https://cobusgreyling.medium.com/moltbook-the-illusion-of-an-ai-society-6bd21ee8e88d) I wrote about Moltbook and the illusion of an AI society. How 2.6 million agents could not form a culture. That piece drew on a single study. Since then, the research has exploded.
 
 **Seventeen papers** now sit on arXiv, all published in February 2026, all examining the same platform.
 
@@ -157,7 +157,7 @@ Their twelve-day discourse arc also reveals how Moltbook's culture shifted in re
 
 ## What Does This Add To What We Already Know?
 
-My [previous post](https://cobusgreyling.medium.com/moltbook-and-the-illusion-of-ai-society-why-2-6-million-agents-could-not-form-a-culture-f07e6541c9b8) argued that Moltbook showed scale is not socialisation.
+My [previous post](https://cobusgreyling.medium.com/moltbook-the-illusion-of-an-ai-society-6bd21ee8e88d) argued that Moltbook showed scale is not socialisation.
 
 Seventeen studies later, that conclusion is reinforced, but now the picture is richer.
 
